@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalebdunn
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning R, SQL, HTML, CSS, and PHP
+- 👀 I’m interested in AI
+- 🌱 I’m currently experimenting with agentic AI workflows and memory structures
 - 📫 How to reach me kalebdunn@gmail.com
 
 <!---
